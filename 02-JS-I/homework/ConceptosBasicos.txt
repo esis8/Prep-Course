@@ -1,0 +1,14 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+
+- Variables: Son sentencias que almacenan valores de tipo numerico, strings, booleanos para ser usados y/o reutilizados segun se requieran
+
+- Strings: es un tipo de dato alfanumerico, el cual puede almacenar textos.
+
+- Funciones (argumentos, return): son fragmentos de codigos reservados que se ejecutan cada vez que invoquemos la funcion, de esta forma una operacion que se usa mucho se puede guardar dentro de una funcion y de esta forma reutilizarla solamente al ejecutar una linea de codigo invocando la funcion.
+
+- Declaraciones if: son condicionales que sirven para preguntar sentencias que necesitemos, en caso de cumplir o no la condicion ejecuta lo que corresponda.
+
+- Valores booleanos (true, false): son valores que su mayor uso es dentro de las condicionales, de esta forma podemos separar si es verdadero o falso las condiciones para ejecutar ciertas lineas de codigo.
+
+
